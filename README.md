@@ -8,7 +8,8 @@ I have a small amount of experience with a variety of programming languages and 
 At the moment I am practicing HTML, CSS, and JavaScript working on a personal portfolio website to showcase my research, programming, and artwork.
 
 If you have an interesting project idea you would like to collaborate on, especially anything regarding visualising complex geometry or game/mod development, please do let me know.
-At present I am most easily contacted via: lewis.napper@surrey.ac.uk
-
-(At some stage this contact method will be replaced, perhaps with a form or with a dedicated repo TBC)
+At present I am most easily contacted by one of the following methods
+ - via email at lewis.napper@surrey.ac.uk 
+ - via the contact form found at https://lewisn3142.github.io/contact_page/contact.html
+ - for project specific concerns, by raising an issue on the appropriate project
 
