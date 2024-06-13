@@ -1,7 +1,7 @@
 👋 Hey, I’m @LewisN3142 👋
 
 I'm a mathematics PhD student studying the properties of systems of differential equations through induced geometric structures on their phase space. 
-In particular, I am interested in the (higher) symplectic geometry associated with systems of Jacobi/Monge--Amp{\`e}re type equations which arise in, for example, fluid dynamical flows.
+In particular, I am interested in the (higher) symplectic geometry associated with systems of Jacobi/Monge--Amp`ere type equations which arise in, for example, fluid dynamical flows.
 
 This account will house some of the programming projects I work on in my spare time. 
 I have a small amount of experience with a variety of programming languages and software, including Python, Matlab, Mathematica, and C++.
